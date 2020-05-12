@@ -23,5 +23,10 @@ We also are interested in keyword action specific, which can be explored here.
 - ![image](https://github.com/2miatran/twitter_visualization/blob/master/slider_dropdown_menu_covid_action.png)
 - ![image](https://github.com/2miatran/twitter_visualization/blob/master/Action_KeyWord_of_interest_specific_to_action_lineplot.png)
 
+## Racism datasets: (Tweets were collected using keywords/hashtags related to [#iamnotavirus #hateisavirus])
+### Exploring hashtags and mentions over time (These were the top 5 mentions and hashtag for each date during this collecting period)
+- [Racism_hashtag_over_time](https://2miatran.github.io/twitter_visualization/Racism_Hashtag_over_time_lineplot.html)
+- Here's a snippet
+- ![image](https://github.com/2miatran/twitter_visualization/blob/master/Racism_Hashtag_over_time_lineplot.png)
 
 
