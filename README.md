@@ -1,6 +1,6 @@
 # Covid Twitter visualization with Plotly
 Visualizing Covid Twitter data using **Plotly**.
-- Click on the link for a full visualization. You can use dropdown menu to view data in log/linear scale, use slider to find go through each date, click on the menu on the right side to remove keywords/hashtags not of your interest, and hover on the line/bar to see the exact value of counts. 
+- Click on the link for a full visualization. You can use dropdown menu to view data in log/linear scale, use slider to find go through each date, click on the menu on the right side to remove keywords/hashtags not of your interest, and hover on the line/bar to see the exact value of counts. The page might take a few second to load. 
 
 ## Covid19 datasets: (Tweets were collected using covid19 related hashtags)
 ### Exploring hashtags and mentions over time 
