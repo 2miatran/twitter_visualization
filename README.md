@@ -17,8 +17,11 @@ Using **dropdown** to change linear scale or log scale
 - [Covid_hashtag_over_time](https://2miatran.github.io/twitter_visualization/Action_Mention_bar_over_time.html)
 
 We also are interested in keyword action specific, which can be explored here. 
-- [Covid_hashtag_over_time](https://2miatran.github.io/twitter_visualization/Action_KeyWord_of_interest_specific_to_action.html)
+- [Action_hashtag_over_time](https://2miatran.github.io/twitter_visualization/Action_KeyWord_of_interest_specific_to_action.html)
+- [Action_KeyWord_of_interest_specific_to_action_lineplot](https://2miatran.github.io/twitter_visualization/Action_KeyWord_of_interest_specific_to_action_lineplot.html)
 - Here's a snippet
 - ![image](https://github.com/2miatran/twitter_visualization/blob/master/slider_dropdown_menu_covid_action.png)
+- ![image](https://github.com/2miatran/twitter_visualization/blob/master/Action_KeyWord_of_interest_specific_to_action_lineplot.png)
+
 
 
